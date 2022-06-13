@@ -8,8 +8,8 @@ var BRIGHTNESSTABLERGB = [];
 var HISTORY = 25;
 var GRIDWIDTH = 10;
 var MESSAGESTEP = 30;
-var MESSAGE = "Autocode"
-var MESSAGE2 = "Hiyashi_#5562"
+var MESSAGE = "Pashay_chatakan"
+var MESSAGE2 = "CH-ZAMOM_#8452"
 var MESSAGEX = 2;
 var MESSAGEY = 2;
 
