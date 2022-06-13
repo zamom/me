@@ -77,7 +77,7 @@ function updateBrightnessTable() {
   }
 }
 
-function updateMatrix() {
+function updateZamoM() {
   var gridx = Math.floor(document.documentElement.clientWidth / GRIDWIDTH);
   var gridy = Math.floor(document.documentElement.clientHeight / 18); // TODO const
   MESSAGEX = Math.floor((gridx - MESSAGE.length) / 2);
