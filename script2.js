@@ -41,7 +41,7 @@ function getchar() {
 function init() {
   window.setTimeout(function(){
     updateBrightnessTable();
-    updateMatrix();
+    updateZamoM();
     window.setTimeout(timeLoop,0);
   },500);
 }
