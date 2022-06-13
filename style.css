@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: black;
+    color: red;
+    font-family: Fixed, monospace;
+    overflow: hidden;
+}
+.column {
+  position: absolute;
+}
+.cell{}

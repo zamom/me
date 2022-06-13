@@ -1,0 +1,1 @@
+setInterval("location.href = '#';",16000);
